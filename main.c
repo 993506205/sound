@@ -42,4 +42,3 @@ int main(int argc, char *argv[]){
 	scanf("%d", &answer);
 	if(answer==1) testTone(440, 5);*/
 }
-
